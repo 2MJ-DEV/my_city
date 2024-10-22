@@ -17,6 +17,9 @@ Ce projet permet d'afficher le logo d'une ville en fonction de la saisie de l'ut
 - Bibliothèques :
   - Tkinter (inclus dans la plupart des distributions Python)
   - Pillow (pour le traitement des images)
+## Auteur
+
+https://github.com/2MJ-DEV
 
 Pour installer `Pillow`, utilisez la commande suivante :
 
